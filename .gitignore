@@ -1,0 +1,12 @@
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tmp
+build/
+Debug/
+Release/
+.vs/
