@@ -1,0 +1,5 @@
+git show – shows commit details
+git log – shows commit history
+git checkout – switch branches
+git init – create repo
+git reset – undo staging or commits
